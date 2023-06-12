@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "93a7d54d-9298-3970-ac2f-81be77029470",
+    "name": "tweety",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
